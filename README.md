@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>Heimdall - an open-source AI-powered platform for real-time radio source localization using distributed WebSDR receivers, leveraging machine learning for VHF/UHF triangulation with ±30m accuracy<br>👯 I'm looking to collaborate on<br>Systems programming projects in Zig and Rust, radio/SDR applications, MCP (Model Context Protocol) integrations, and AI-powered developer tools<br>🤝 I'm looking for help with<br>Expanding the WebSDR receiver network for Heimdall across Europe, fine-tuning LLMs for code intelligence (especially ZigNet), and Kubernetes deployment best practices<br>🌱 I'm currently learning<br>Advanced Zig language patterns (comptime, generics), machine learning inference optimization (GGUF quantization, GPU acceleration), and real-time geospatial data processing with TimescaleDB<br>💬 Ask me about<br>Zig programming (from beginner to advanced patterns), building MCP servers for AI coding assistants, microservices architecture with Python/FastAPI, radio frequency signal processing, or creating educational programming resources<br>⚡ Fun fact<br>I created Ziglets - a collection of CLI examples that got 27 stars by teaching Zig through practical, runnable code snippets. I also built ZigNet, an MCP server that brings AI-powered Zig code analysis to Claude Desktop by fine-tuning a 7B parameter model on 13,756 real-world Zig examples!
+🔭 I'm currently working on  
+Heimdall - a radio source localization platform using WebSDR receivers and machine learning for amateur radio applications
+
+👯 I'm looking to collaborate on  
+Projects involving Zig, Rust, SDR/radio applications, or developer tools that integrate with AI assistants
+
+🤝 I'm looking for help with  
+Growing the WebSDR receiver network for Heimdall and improving Kubernetes deployment workflows
+
+🌱 I'm currently learning  
+Zig language internals (comptime, error handling), LLM fine-tuning and quantization, and working with time-series data at scale
+
+💬 Ask me about  
+Zig programming, building MCP servers, microservices with Python/FastAPI, or creating educational code examples
+
+⚡ Fun fact  
+I learn best by building small, focused examples - that's why I created Ziglets, a collection of minimal Zig CLI tools to understand the language one concept at a time
 
 
 ## 🌐 Socials:
