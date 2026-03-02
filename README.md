@@ -1,15 +1,3 @@
-🔭 I'm currently working on  
-Heimdall - a radio source localization platform using WebSDR receivers and machine learning for amateur radio applications
-
-👯 I'm looking to collaborate on  
-Projects involving Zig, Rust, SDR/radio applications, or developer tools that integrate with AI assistants
-
-🤝 I'm looking for help with  
-Growing the WebSDR receiver network for Heimdall and improving Kubernetes deployment workflows
-
-🌱 I'm currently learning  
-Zig language internals (comptime, error handling), LLM fine-tuning and quantization, and working with time-series data at scale
-
 💬 Ask me about  
 Zig programming, building MCP servers, microservices with Python/FastAPI, or creating educational code examples
 
